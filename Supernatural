@@ -1,0 +1,78 @@
+#EXTM3U
+ 
+#EXTINF:-1 tvg-logo="http://server8.redecanais.tv/imgs-videos/Sobrenatural%20Capa.jpg"/>",[COLOR green]Sobrenatural 11 Temporada[/COLOR]
+http://0.0.0.0:1234
+ 
+ 
+#EXTINF:0 tvg-logo="http://server8.redecanais.tv/imgs-videos/Sobrenatural%20Capa.jpg" group-title="Series",Ep11-1
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/SPNT11EP01.mp4
+ 
+#EXTINF:0 tvg-logo="http://server8.redecanais.tv/imgs-videos/Sobrenatural%20Capa.jpg" group-title="Series",Ep11-2
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/SPNT11EP02.mp4
+ 
+#EXTINF:0 tvg-logo="http://C:\Users\Public\Pictures\Android/imgs-videos/Sobrenatural%20Capa.jpg" group-title="Series",Ep11-3
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/SPNT11EP03.mp4
+ 
+#EXTINF:0 tvg-logo="http://server8.redecanais.tv/imgs-videos/Sobrenatural%20Capa.jpg" group-title="Series",Ep11-4
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/SPNT11EP04.mp4
+ 
+#EXTINF:0 tvg-logo="http://server8.redecanais.tv/imgs-videos/Sobrenatural%20Capa.jpg" group-title="Series",Ep11-5
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/SPNT11EP05.mp4
+ 
+#EXTINF:0 tvg-logo="http://server8.redecanais.tv/imgs-videos/Sobrenatural%20Capa.jpg" group-title="Series",Ep11-6
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/SPNT11EP06.mp4
+ 
+#EXTINF:0 tvg-logo="http://server8.redecanais.tv/imgs-videos/Sobrenatural%20Capa.jpg" group-title="Series",Ep11-7
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/SPNT11EP07.mp4
+ 
+#EXTINF:0 tvg-logo="http://server8.redecanais.tv/imgs-videos/Sobrenatural%20Capa.jpg" group-title="Series",Ep11-8
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/SPNT11EP08.mp4
+ 
+#EXTINF:0 tvg-logo="http://server8.redecanais.tv/imgs-videos/Sobrenatural%20Capa.jpg" group-title="Series",Ep11-9
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/SPNT11EP09.mp4
+ 
+#EXTINF:0 tvg-logo="http://server8.redecanais.tv/imgs-videos/Sobrenatural%20Capa.jpg" group-title="Series",Ep11-10
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/SPNT11EP10.mp4
+ 
+#EXTINF:0 tvg-logo="http://server8.redecanais.tv/imgs-videos/Sobrenatural%20Capa.jpg" group-title="Series",Ep11-11
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/SPNT11EP11.mp4
+ 
+#EXTINF:0 tvg-logo="http://server8.redecanais.tv/imgs-videos/Sobrenatural%20Capa.jpg" group-title="Series",Ep11-12
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/SPNT11EP12.mp4
+ 
+#EXTINF:0 tvg-logo="http://server8.redecanais.tv/imgs-videos/Sobrenatural%20Capa.jpg" group-title="Series",Ep11-13
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/SPNT11EP13.mp4
+ 
+#EXTINF:0 tvg-logo="http://server8.redecanais.tv/imgs-videos/Sobrenatural%20Capa.jpg" group-title="Series",Ep11-14
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/SPNT11EP14.mp4
+ 
+#EXTINF:0 tvg-logo="http://server8.redecanais.tv/imgs-videos/Sobrenatural%20Capa.jpg" group-title="Series",Ep11-15
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/SPNT11EP15.mp4
+ 
+#EXTINF:0 tvg-logo="http://server8.redecanais.tv/imgs-videos/Sobrenatural%20Capa.jpg" group-title="Series",Ep11-16
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/SPNT11EP16.mp4
+ 
+#EXTINF:0 tvg-logo="http://server8.redecanais.tv/imgs-videos/Sobrenatural%20Capa.jpg" group-title="Series",Ep11-17
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/SPNT11EP17.mp4
+ 
+#EXTINF:0 tvg-logo="http://server8.redecanais.tv/imgs-videos/Sobrenatural%20Capa.jpg" group-title="Series",Ep11-18
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/SPNT11EP18.mp4
+ 
+#EXTINF:0 tvg-logo="http://server8.redecanais.tv/imgs-videos/Sobrenatural%20Capa.jpg" group-title="Series",Ep11-19
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/SPNT11EP19.mp4
+ 
+#EXTINF:0 tvg-logo="http://server8.redecanais.tv/imgs-videos/Sobrenatural%20Capa.jpg" group-title="Series",Ep11-20
+http://storage-rc.edgedns.us/RedeCanais/RCServer11/ondemand/SPNT11EP20.mp4
+ 
+#EXTINF:0 tvg-logo="http://server8.redecanais.tv/imgs-videos/Sobrenatural%20Capa.jpg" group-title="Series",Ep11-21
+http://storage-rc.edgedns.us/RedeCanais/RCServer11/ondemand/SPNT11EP21.mp4
+ 
+#EXTINF:0 tvg-logo="http://server8.redecanais.tv/imgs-videos/Sobrenatural%20Capa.jpg" group-title="Series",Ep11-22
+http://storage-rc.edgedns.us/RedeCanais/RCServer11/ondemand/SPNT11EP22.mp4
+ 
+#EXTINF:0 tvg-logo="http://server8.redecanais.tv/imgs-videos/Sobrenatural%20Capa.jpg" group-title="Series",Ep11-23
+http://storage-rc.edgedns.us/RedeCanais/RCServer11/ondemand/SPNT11EP23.mp4
+ 
+ 
+ 
+swfUrl= pageUrl=
