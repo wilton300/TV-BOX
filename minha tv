@@ -1,0 +1,1176 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/i1p1srlvt/Official_site.png" group-title="informaçoes",[COLOR blue]IptvOnline.tk[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/mu3ghy5xp/icon_mail.png" group-title="informaçoes",[COLOR blue]iptvonline@outlook.com[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/qb5ikx4zt/refresh.png" group-title="informaçoes",Revisada em »  [COLOR green]26/AGOSTO/2016[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-logo="http://iptvonline.ucoz.com.br/LOGOS/user.png" group-title="informaçoes",Revisada Por[COLOR green]By:WellingtonSilva[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/s1ojmemj1/image.png" group-title="informaçoes",[COLOR green]6.000 Canais On[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/dq0g3rez1/curtir.png" group-title="informaçoes",FACEBOOK »  [COLOR green]FAN PAGE[/COLOR]
+https://www.facebook.com/iptvonline/
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/hhem3ti19/Facebook_Icon.png" group-title="informaçoes",GRUPO DO FACEBOOK FOI HACKEADO »  [COLOR green]GRUPO[/COLOR]
+https://www.facebook.com/groups/1504932086477041/
+
+
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/3tzd44971/GLOBOSAT.png" group-title="GLOBOSAT",[COLOR red][I][B]» GLOBO SAT«[/B][/I][/COLOR]
+http://canaisglobosat.globo.com/
+
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/jwerczf61/Premiere_Combate.png" group-title=GLOBOSAT",COMBATE[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://server1.livestreaming.ninja:1935/live/combate755/livestream.m3u8?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/zcwx1096x/Spor_TV.png" group-title="GLOBOSAT",SPORTV [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://ftv.ftgrm.me:8082/spo124ha/750/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/ccq9oobd5/Spor_TV2.png" group-title="GLOBOSAT",SPORTV 2 [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://ftv.ftgrm.me:8082/spo224ha/750/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/6d2il0qkp/Spor_TV3.png" group-title="GLOBOSAT",SPORTV 3 [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://ftv.ftgrm.me:8082/spo324ha/750/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/sportv4.png" group-title="GLOBOSAT",SPORTV 4[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://ftv.ftgrm.me:8082/spo424ha/750/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/sportv5.png" group-title="GLOBOSAT",SPORTV 5[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://ftv.ftgrm.me:8082/spo524ha/750/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/sportv6.png" group-title="GLOBOSAT",SPORTV 6[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://ftv.ftgrm.me:8082/spo624ha/750/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/sportv7.png" group-title="GLOBOSAT",SPORTV 7[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://ftv.ftgrm.me:8082/spo724ha/750/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/sportv8.png" group-title="GLOBOSAT",SPORTV 8[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://ftv.ftgrm.me:8082/spo824ha/750/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/sportv9.png" group-title="GLOBOSAT",SPORTV 9[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://ftv.ftgrm.me:8082/spo924ha/750/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/sportv10.png" group-title="GLOBOSAT",SPORTV 10[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://ftv.ftgrm.me:8082/spo1024ha/750/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/sportv11.png" group-title="GLOBOSAT",SPORTV 11[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://ftv.ftgrm.me:8082/spo1124ha/750/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/sportv12.png" group-title="GLOBOSAT",SPORTV 12[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://ftv.ftgrm.me:8082/spo1224ha/750/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/sportv13.png" group-title="GLOBOSAT",SPORTV 13[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://ftv.ftgrm.me:8082/spo1324ha/750/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/sportv14.png" group-title="GLOBOSAT",SPORTV 14[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://ftv.ftgrm.me:8082/spo1424ha/750/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/sportv15.png" group-title="GLOBOSAT",SPORTV 15[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://ftv.ftgrm.me:8082/spo1524ha/750/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/sportv16.png" group-title="GLOBOSAT",SPORTV 16[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://ftv.ftgrm.me:8082/spo1624ha/750/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/5i26trekp/Multishow.png" group-title="GLOBOSAT",Multishow[COLOR gray] SD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://163.172.60.49/loadbalance/canal-multishow-hd/chunks.m3u8?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/h9gvd2ufd/Globo_SP.png" group-title="GLOBOSAT",Globo [COLOR gray] RS[/COLOR] [COLOR yellow]ON[/COLOR]
+http://163.172.41.217:8081/loadbalance/slv5/playlist.m3u8?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/h9gvd2ufd/Globo_SP.png" group-title="GLOBOSAT",Globo [COLOR gray] RJ[/COLOR] [COLOR yellow]ON[/COLOR]
+http://213.163.65.9:8081/live/globok/playlist.m3u8?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/h9gvd2ufd/Globo_SP.png" group-title="GLOBOSAT",Globo [COLOR gray] MG[/COLOR] [COLOR yellow]ON[/COLOR]
+http://163.172.41.217:8081/loadbalance/slv4/playlist.m3u8?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/4tk5jc13d/Globo_News.png" group-title="GLOBOSAT",Globo [COLOR gray] NEWS[/COLOR] [COLOR yellow]ON[/COLOR]
+http://62.210.152.215:1935/live/ch27/chunklist.m3u8?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/vfs0ukfwp/Viva.png" group-title="GLOBOSAT",Viva[COLOR gray] SD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://server2.livestreaming.ninja:1935/live/veja212429/playlist.m3u8?IPTVONLINE
+
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/7599r1qq1/BBB16.png" group-title="GLOBOSAT",BBB16 [COLOR gray] Pay Per View[/COLOR] [COLOR yellow]ON[/COLOR]
+http://163.172.41.217:8081/loadbalance/33634926393838143655/chunks.m3u8?nimblesessionid=6245603
+
+################################################################################## CANAIS DE TV ABERTA
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/m74jsf91p/TVABERTADOBRASIL.png" group-title="TV ABERTA",[COLOR red][I][B]» TV ABERTA «[/B][/I][/COLOR]
+http://google.com
+
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/hy83ezmo9/Rede_Brasil.png" group-title="TV ABERTA", REDE BRASIL  [COLOR gray] SD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/mn1vfeg09/TVAparecida.png" group-title="TV ABERTA",  TV APARECIDA  [COLOR yellow] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://caikrondatacenter.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/sp9i5w4g9/TVBrasil.png" group-title="TV ABERTA",TV Brasil [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://ebcremuxlive-live.hls.adaptive.level3.net/manifests/ebcremuxlive-ebctvbrasil/live.m3u8?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/snclfrjpp/Nbr.png" group-title="TV ABERTA", NBR
+http://ebcremuxlive-live.hls.adaptive.level3.net/manifests/ebcremuxlive-ebctvnbr/live.m3u8?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/emedzfkax/SBT.png" group-title="TV ABERTA", SBT  [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://gbbrlive2.sambatech.com.br/liveevent/sbt3_8fcdc5f0f8df8d4de56b22a2c6660470/livestream/chunklist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/b9etxac21/Cultura.png" group-title="TV ABERTA",TV Cultura  [COLOR yellow] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://cdn-br-002938543.comets.com.br/tvbaiana/aovivo/chunklist_w1472016693.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/3uulpk8zx/univesptv.png" group-title="TV ABERTA",Univesp Tv  [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/x38sq9095/Sesc_TV.png" group-title="TV ABERTA",Sesc Tv Sp [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://srv6.zoeweb.tv/zt2//stream/playlist.m3u8?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/5gj28uxzd/Futura.png" group-title="TV ABERTA",Futura [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/cx0pdmf7t/Record.png" group-title="TV ABERTA",Tv Record  [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://tvvitoria.viacast.tv/livepl/tvvitoria_3_original.m3u8?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/fkq5nz895/Redetv.png" group-title="TV ABERTA",Rede Tv  [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/j7ecjl85l/TVEscola.png" group-title="TV ABERTA",Tv Escola [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://liveabr2.sambatech.com.br/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8?IPTVONLINE
+
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/ci7t3kmtl/Tv_Gazeta.png" group-title="TV ABERTA",Tv Gazeta [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://livestream-f.akamaihd.net/i/5381476_2395418_a214a8f4_1@141252/index_2320_av-p.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1466701889~acl=%2fi%2f5381476_2395418_a214a8f4_1%40141252%2f*~data=hdntl~hmac=e3fc989f336cd2d65224d92adc9c7c77f5e87a36eb6275fcbfbecf886fc99951
+
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/uuypfqp3d/Band_SP.png" group-title="TV ABERTA",Band [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://evp.mm.uol.com.br:1935/bandpracas/bandcidaders/live.m3u8?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/jbmv7tfnx/Mix_Tv.png" group-title="TV ABERTA",Mix Tv [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://xmixtvbrx.api.channel.livestream.com/3.0/playlist.m3u8?IPTVONLINE
+
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/pel560ej1/transamerica_tv.png" group-title="TV ABERTA",Tv TransAmerica [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://flash1.crossdigital.com.br:1935/ponto2/transamerica2/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/hqb9qzwy5/Mega_TV.png" group-title="TV ABERTA",Mega Tv [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://rtmp.cdn.upx.net.br:1935/00135_4/myStream.sdp/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/865f9cbrh/Rede_Vida.png" group-title="TV ABERTA",Rede Vida [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://rtmp.cdn.upx.net.br:80/74cc/myStream.sdp?
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/92odelax9/Esporte_Interativo.png" group-title="TV ABERTA",Esporte-Interativo [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://ei.frankfurt.eiplus.com.br/live/smil:Evento1.smil/chunklist_b1088000.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/i4qdvtl71/RIT.png" group-title="TV ABERTA",Rit Tv [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://flash1.crossdigital.com.br:1935/ponto79/ongrace/live.m3u8?grupoiptvglobal
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/onemv080d/Record_News.png" group-title="TV ABERTA",Record News [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://a1.fabricahost.com.br:1935/redemercosul playpath=redemercosul swfUrl=http://streaming.fabricahost.com.br/flashvideo/player.swf live=1 pageURL=http://www.assistirtvonlinehd.tv/canais/recordnews.htm
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/rqarkmxl9/Novo_Tempo.png" group-title="TV ABERTA",Tv Novo Tempo [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://stream.novotempo.com:1935/tv/tvnovotempo.stream/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/muker985p/boavontadetv.png" group-title="TV ABERTA",Boa Vontade [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://flash1.crossdigital.com.br:1935/755/755/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/x2zlyrlhp/ngt.png" group-title="TV ABERTA",NGT SP [COLOR gray] SD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://srv3.zoeweb.tv:1935/z403-live/stream/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/u84wavb0t/Terra_Viva.png" group-title="TV ABERTA",Terra Viva[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://evp.mm.uol.com.br/terraviva/_definst_/terraviva/IPTVGLOBAL.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/x9hwflk0d/Rede_Gospel.png" group-title="TV ABERTA",Rede Gospel[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://media.igospel.com.br:1935/live/redegospel/waldo_paes.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/j1s7qy7bh/Rede_Mundial.png" group-title="TV ABERTA",Tv Mundial[COLOR gray] SP[/COLOR] [COLOR yellow]ON[/COLOR]
+http://impd.crossdigital.com.br:1935/impd/impd/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/lajo6lp59/Cancao_Nova.png" group-title="TV ABERTA",Canção Nova[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://cancaonova-push-live.hls.adaptive.level3.net:80/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/nkcw20gwd/TVSeculo21.png" group-title="TV ABERTA",Tv Seculo 21[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://257920-lh.akamaihd.net/i/TVSeculo21_hls@145741/master.m3u8?
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/ouaph2aod/TVCamara.png" group-title="TV ABERTA",Tv Camara[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://wse.midiaserverbr.com:1935/jacarei/jacarei/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/mjcncvzwt/TVSenado.png" group-title="TV ABERTA",Tv Senado[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtsp://drix.senado.gov.br/tv1
+
+
+
+
+################################################################################## CANAIS DE ESPORTES
+
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/bvs6zrhcd/Futebol.png" group-title="",[COLOR blue][I][B]» ESPORTES «[/B][/I][/COLOR]
+http://google.com
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/z2g7q6ft9/Premiere_FC.png" group-title="ESPORTES",PREMIERE [COLOR gray] dias de jogos[/COLOR] [COLOR yellow]ON[/COLOR]
+http://31.204.150.39:8081/live/pfc2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/jwerczf61/Premiere_Combate.png" group-title="ESPORTES",Combate[COLOR gray] SD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://79.124.58.218:1935/liveedge/ch10-1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/zcwx1096x/Spor_TV.png" group-title="ESPORTES",SporTV [COLOR gray] SD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://31.204.153.115:8081/live/sportv/playlist.m3u8?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/ccq9oobd5/Spor_TV2.png" group-title="ESPORTES",SporTV 2 [COLOR gray] SD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://213.163.65.9:8081/live/sportv2k/playlist.m3u8?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/6d2il0qkp/Spor_TV3.png" group-title="ESPORTES",SporTV 3 [COLOR gray] SD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://79.124.59.218:1935/liveedge/ch07-1/playlist.m3u8?IPTVONLINE
+
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/7sishptot/Fight_Sports.png" group-title="ESPORTES", FIGHT SPORTS
+http://118.97.183.222:1935/discover/fight/chunklist.m3u8?IPTVONLINE
+ 
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/vxo3d63d9/nba.jpg" group-title="ESPORTES", NBA
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8?IPTVONLINE
+
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/5f5g4g4nh/REALMADRITV.png" group-title="ESPORTES",REAL MADRID TV[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/60xl4mxsd/Football_club_barcelona_television.png" group-title="ESPORTES",BARÇA TV[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/44ntwrq19/Band_Sport.png" group-title="ESPORTES",BandSports[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://evp.mm.uol.com.br:1935/geob_terraviva/operadoras/live.m3u8?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/682ui6f7x/Canal_Off.png" group-title="ESPORTES",Canal OFF[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://163.172.60.49/loadbalance/canal-off-hd/chunks.m3u8?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/gzjgnysgd/esporte_interativo.png" group-title="ESPORTES",Esporte Interativo[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://ss-bsas.eiplus.com.br/live/smil:Evento1.smil/chunklist_b978000.m3u8?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/4v476zfkd/eimaxx.png" group-title="ESPORTES",EI Max [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://ss-bsas.eiplus.com.br/live/smil:Evento3.smil/chunklist_b978000.m3u8?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/xm10x1le5/eimaxx2.png" group-title="ESPORTES",EI Max 2[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://ss-bsas.eiplus.com.br/live/smil:Evento2.smil/chunklist_b978000.m3u8?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/95891fekt/Esporteinterativonordeste.png" group-title="ESPORTES",Esporte Interativo Ne[COLOR gray] Nordeste[/COLOR] [COLOR yellow]ON[/COLOR]
+
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/iluw3z0ct/tv_esporte_mais.png" group-title="ESPORTES",TV Esporte Mais[COLOR gray] E.I.[/COLOR] [COLOR yellow]ON[/COLOR] 
+http://srv7.zoeweb.tv:1935/esportemais/esportemais.smil/chunklist_b1200000.m3u8?IPTVONLINE
+
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/lg17li0lp/ESPNBrasil.png" group-title="ESPORTES", ESPN Brasil[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://213.163.65.9:8081/live/espnbrz/playlist.m3u8?IPTVONLINE
+
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/uwr0s4kgd/ESPN.png" group-title="ESPORTES",ESPN[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://163.172.60.49/loadbalance/canal-espn-hd/playlist.m3u8?IPTVONLINE
+
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/78biwunwt/ESPN.png" group-title="ESPORTES",ESPN+[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://163.172.60.49/loadbalance/canal-espn+-hd/playlist.m3u8?IPTVONLINE
+
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/6t0raqvf1/Fox_Sport.png" group-title="ESPORTES",FoxSports[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://213.163.65.9:8081/live/foxsportk/playlist.m3u8?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/tizw3qeml/Fox_Sports2.png" group-title="ESPORTES",FoxSports 2[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://163.172.60.49/loadbalance/canal-fox-sports-2-hd/playlist.m3u8?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/7j60cwlfx/allspots.png" group-title="ESPORTES",TV ALL SPORTS [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8?IPTVONLINE
+
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/z2g7q6ft9/Premiere_FC.png" group-title="",[COLOR green][I][B]» PREMIERE FC «[/B][/I][/COLOR]
+http://google.com
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/z2g7q6ft9/Premiere_FC.png" group-title="ESPORTES",PREMIERE 1 [COLOR gray] dias de jogos[/COLOR] [COLOR yellow]ON[/COLOR]
+http://srvlon1.hostseven.org:1935/live/fut01/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/z2g7q6ft9/Premiere_FC.png" group-title="ESPORTES",PREMIERE 2 [COLOR gray] dias de jogos[/COLOR] [COLOR yellow]ON[/COLOR]
+http://srvlon1.hostseven.org:1935/live/fut02/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/z2g7q6ft9/Premiere_FC.png" group-title="ESPORTES",PREMIERE 3 [COLOR gray] dias de jogos[/COLOR] [COLOR yellow]ON[/COLOR]
+http://srvlon1.hostseven.org:1935/live/fut09/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/z2g7q6ft9/Premiere_FC.png" group-title="ESPORTES",PREMIERE 4 [COLOR gray] dias de jogos[/COLOR] [COLOR yellow]ON[/COLOR]
+http://srvlon1.hostseven.org:1935/live/fut1022842/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/z2g7q6ft9/Premiere_FC.png" group-title="ESPORTES",PREMIERE 5 [COLOR gray] dias de jogos[/COLOR] [COLOR yellow]ON[/COLOR]
+http://srvlon1.hostseven.org:1935/live/fut1123402/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/tyoy1z4p9/PFC.png" group-title="ESPORTES",PFC 24HS [COLOR gray] SD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://art.nextv.ca/nextv/pfci/index.m3u8?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/tyoy1z4p9/PFC.png" group-title="ESPORTES",PFC 1 [COLOR gray] dias de jogos[/COLOR] [COLOR yellow]ON[/COLOR]
+http://62.210.88.208:1935/liverepeat/fut01/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/tyoy1z4p9/PFC.png" group-title="ESPORTES",PFC 2 [COLOR gray] dias de jogos[/COLOR] [COLOR yellow]ON[/COLOR]
+http://62.210.88.208:1935/liverepeat/fut02/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/tyoy1z4p9/PFC.png" group-title="ESPORTES",PFC 3 [COLOR gray] dias de jogos[/COLOR] [COLOR yellow]ON[/COLOR]
+http://live-cdn.direct-stream.org:1935/live/_definst_/ctv0009/Anderson_Elias.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/tyoy1z4p9/PFC.png" group-title="ESPORTES",PFC 4 [COLOR gray] dias de jogos[/COLOR] [COLOR yellow]ON[/COLOR]
+http://62.210.88.208:1935/liverepeat/fut1022842/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/tyoy1z4p9/PFC.png" group-title="ESPORTES",PFC 5 [COLOR gray] dias de jogos[/COLOR] [COLOR yellow]ON[/COLOR]
+http://62.210.88.232:1935/liverepeat//fut05/livestream.m3u8?
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/tyoy1z4p9/PFC.png" group-title="ESPORTES",PFC 6 [COLOR gray] dias de jogos[/COLOR] [COLOR yellow]ON[/COLOR]
+http://62.210.88.208:1935/liverepeat/fut06/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/tyoy1z4p9/PFC.png" group-title="ESPORTES",PFC 7 [COLOR gray] dias de jogos[/COLOR] [COLOR yellow]ON[/COLOR]
+http://62.210.88.208:1935/liverepeat/fut07/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/tyoy1z4p9/PFC.png" group-title="ESPORTES",PFC 8 [COLOR gray] dias de jogos[/COLOR] [COLOR yellow]ON[/COLOR]
+http://62.210.88.232:1935/liverepeat/201020/livestream.m3u8?
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/tyoy1z4p9/PFC.png" group-title="ESPORTES",PFC 9 [COLOR gray] dias de jogos[/COLOR] [COLOR yellow]ON[/COLOR]
+http://62.210.88.208:1935/liverepeat/fut09/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/tyoy1z4p9/PFC.png" group-title="ESPORTES",PFC 10 [COLOR gray] dias de jogos[/COLOR] [COLOR yellow]ON[/COLOR]
+http://62.210.88.232:1935/liverepeat/101010/livestream.m3u8?
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/tyoy1z4p9/PFC.png" group-title="ESPORTES",PFC 11 [COLOR gray] dias de jogos[/COLOR] [COLOR yellow]ON[/COLOR]
+http://62.210.89.38:1935/liverepeat/fut1123402/livestream.m3u8?
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/tyoy1z4p9/PFC.png" group-title="ESPORTES",PFC 12 [COLOR gray] dias de jogos[/COLOR] [COLOR yellow]ON[/COLOR]
+http://62.210.88.208:1935/liverepeat/fut12/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/tyoy1z4p9/PFC.png" group-title="ESPORTES",PFC 13 [COLOR gray] dias de jogos[/COLOR] [COLOR yellow]ON[/COLOR]
+http://62.210.88.208:1935/liverepeat/fut1022842/livestream.m3u8?
+
+
+################################################################################## CANAIS INFANTIS
+
+
+#EXTINF:-1 tvg-logo="" tvg-logo="" group-title="",[COLOR violet][I][B]» INFANTIL «[/B][/I][/COLOR]
+http://google.com
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/x27jhejrh/Cartoon_Network.png" group-title="INFANTIL",Cartoon Network[COLOR gray] SD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://213.163.65.9:8081/live/cartoonk/playlist.m3u8?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/o9v67go09/Discovery_Kids.png" group-title="INFANTIL",Discovery Kids[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://31.204.152.6:8081/live/discoverykids/playlist.m3u8?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/p5rnmwxot/Disney_Channel.png" group-title="INFANTIL",Disney Channel[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://31.204.152.6:8081/live/disney/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/fb53ufj49/Disney_Jr.png" group-title="INFANTIL",Disney JR[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://163.172.60.49/loadbalance/canal-disney-junior/playlist.m3u8?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/y2714ldop/Disney_XD.png" group-title="INFANTIL",Disney XD[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://163.172.60.49/loadbalance/canal-disney-xd/playlist.m3u8?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="http://mto0800.esy.es/imagens/canais/milktv.png" group-title="INFANTIL",Milk TV BR[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://stmv1.hostgs.net:1935/jtvmilk/jtvmilk/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/e7rgp8w3t/nick.png" group-title="INFANTIL", Nickelodeon BR
+http://server1.livestreaming.ninja:1935/live/nicka1/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/x0fqbxhu1/Nick_Jr.png" group-title="INFANTIL",Nike JR.[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/sn3eoa4y1/Gloob.png" group-title="INFANTIL",Gloob[COLOR gray] SD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://163.172.60.49/loadbalance/canal-gloob-hd/playlist.m3u8?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/9cdieyw09/Bloomberg.png" group-title="INFANTIL",BOOMERANG[COLOR gray] SD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://163.172.60.49/loadbalance/canal-boomerang/playlist.m3u8IPTVONLINE
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/vz333pbil/tooncast.png" group-title="INFANTIL", TOONCAST BRA
+
+
+
+#EXTINF:-1 tvg-logo="" tvg-logo="" group-title="Desenhos 24 Horas",[COLOR green][I][B]» Desenhos 24 Horas «[/B][/I][/COLOR]
+http://google.com
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="" group-title="Desenhos 24 Horas", BLEACH  [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://extondemand.livestream.com:80/ondemand playpath=trans/dv15/mogulus-user-files/chbleachbr/2012/02/09/4ec860e2-b1b9-4765-8ae6-4ca41ed73ace swfUrl=http://cdn.livestream.com/chromelessPlayer/v20/playerapi.swf?jsEnabled=false pageUrl=http://www.assistirtvgratisonline.org/canais/bleach.html
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/twjb3qm4t/BATMAN.png" group-title="Desenhos 24 Horas", BATMAN  [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://208.53.180.242/ctv/ playpath=batman swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/m7mgs0ln1/BEN10.png" group-title="Desenhos 24 Horas", BEN 10  [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://208.53.180.178/ctv playpath=ben10 swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/mhtzbd099/BOB_ESPONJA.png" group-title="Desenhos 24 Horas", BOB ESPONJA  [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://208.53.180.242/ctv/ playpath=bob swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/pfqy527wt/CAVALEIROS_DO_ZODIACO.png" group-title="Desenhos 24 Horas", CAVALEIROS DO ZODIACO [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://208.53.180.242/ctv/ playpath=cdz swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/jg7sf5ci5/DUNGEONS_E_DRAGONS.png" group-title="Desenhos 24 Horas", CAVERNA DO DRAGAO [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://208.53.180.242/ctv playpath=caverna swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/egac776vh/DUCKTALES.png" group-title="Desenhos 24 Horas", DUCKTALES  [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://208.53.180.218/ctv/ playpath=duck swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/ducktales.php
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/7ail4qxsd/DOUG.png" group-title="Desenhos 24 Horas", DOUG  [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://208.53.180.242/ctv/ playpath=doug swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/tesr1mlxp/DRAGON_BALL_Z.png" group-title="Desenhos 24 Horas", DRAGON BALL Z  [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://208.53.180.242/ctv/ playpath=dbz swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/o7c9awuq5/FAMILIA_DINOSAUROS.png" group-title="Desenhos 24 Horas", FAMILIA DINOSSAUROS  [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://208.53.180.218/ctv playpath=dino swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/9s3j3hwg9/MUNDODEBOBBYS.png" group-title="Desenhos 24 Horas", FANTASTICO MUNDO DE BOBBY  [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://208.53.180.242/ctv playpath=bobby swfUrl=http://www.canaistv.net/player.swf live=1 pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/l5lh0yhl9/FUTURAMA.png" group-title="Desenhos 24 Horas", FUTURAMA  [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://208.53.180.242/ctv/ playpath=futurama swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/pc6bgah6x/GALINHA_PINTADINHA.png" group-title="Desenhos 24 Horas", GALINHA PINTADINHA  [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://208.53.180.242/ctv/ playpath=galinha swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/c1n20ig09/JACK_CHAN.png" group-title="Desenhos 24 Horas", JACKIE CHAN  [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://208.53.180.242/ctv playpath=jackie swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/s2k8r839p/JASPION.png" group-title="Desenhos 24 Horas", JASPION  [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://208.53.180.242/ctv playpath=jaspion swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/szqo03erx/NARUTO.png" group-title="Desenhos 24 Horas", NARUTO [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://208.53.180.242/ctv/ playpath=naruto swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/eupwvec25/THEFLINTSTONES.png" group-title="Desenhos 24 Horas", OS FLINTSTONES  [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://208.53.180.242/ctv/ playpath=flinstones swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/hyviv2mj1/MASCARA.png" group-title="Desenhos 24 Horas", O MASKARA [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://208.53.180.242/ctv/ playpath=maskara swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/nw4g909zh/PICA_PAL.png" group-title="Desenhos 24 Horas", PICA PAU  [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://208.53.180.242/ctv/ playpath=picapau swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/5o7m846tp/SCOOBYDOO.png" group-title="Desenhos 24 Horas", SCOBBY DOO  [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://208.53.180.178/ctv playpath=scooby swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/x1ct2vde5/SIMPSONS.png" group-title="Desenhos 24 Horas", SIMPSONS  [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://208.53.180.178/ctv playpath=simpsons swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/3q0ya4ebx/SOUTHPARK.png" group-title="Desenhos 24 Horas", SOUTH PARK [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://208.53.180.242/ctv/ playpath=southpark swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/vtyvann9p/TOMEJERRY.png" group-title="Desenhos 24 Horas", TOM E JERRY  [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://208.53.180.242/ctv playpath=tom swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/ezy9it8r1/THUNDERCATS.png" group-title="Desenhos 24 Horas", THUNDER CATS  [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://208.53.180.242/ctv/ playpath=thunder swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/bq5lnqzkd/FAMILIADAPESADApng.png" group-title="Desenhos 24 Horas", UMA FAMILIA DA PESADA  [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://208.53.180.242/ctv/ playpath=family swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/b111zzk3x/XMEN.png" group-title="Desenhos 24 Horas", X MEN  [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://208.53.180.242/ctv playpath=xmen swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/4r5sczkp9/YU_GI_OH.png" group-title="Desenhos 24 Horas", YUGIOH  [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://208.53.180.242/ctv/ playpath=yugioh swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="" group-title="Desenhos 24 Horas", ONE PIECE  [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://extondemand.livestream.com:80/ondemand playpath=trans/dv15/mogulus-user-files/chonepeacehd/2012/02/13/ef364302-7cdf-4c9f-ba5b-7c43b09d32e1 swfUrl=http://cdn.livestream.com/chromelessPlayer/v20/playerapi.swf?jsEnabled=false pageUrl=http://www.assistirtvgratisonline.org/canais/one-piece.html
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/pk3lnnnv1/PENGUINS_MADAGASCAR.png" group-title="Desenhos 24 Horas", OS PINGUINS DE MADAGASCAR  [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://208.53.164.194/ctv/ playpath=pinguins swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/pinguins.php
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/65xpquq31/LIGA_DA_JUSTICA.png" group-title="Desenhos 24 Horas", LIGA DA JUSTICA  [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://208.53.180.242/ctv/ playpath=liga swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/liga.php
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/ot5tkrf65/PADRINHOSMAGICOS.png" group-title="Desenhos 24 Horas", PADRINHOS MAGICOS [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://208.53.180.242/ctv/ playpath=padrinhos swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/padrinhos.php
+
+
+################################################################################# FILMES
+
+
+#EXTINF:-1 tvg-logo="" tvg-logo="" group-title="",[COLOR green][I][B]» FILMES «[/B][/I][/COLOR]
+http://google.com
+
+
+#EXTINF: -1 TVG-logo="http://s20.postimg.org/ylilkn2q1/CINEBRASILTV.png?noCache=1462383869" grupo-title = "IPTV", CineBrasil
+rtmp://l.mybeststream.xyz/r playpath=cinebrasil163 swfUrl=http://mybeststream.xyz/YmI3ZDM2ZTI2ZDE4MzkxMWIzODhlMGQ2MzBkNDlmZDBiNDEyOW/jwplayer.flash.swf pageUrl=http://mybeststream.xyz/ token=c.r.e.a.t.e.S.t.r.e.a.m
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/rzlm8vl3d/cine.jpg" group-title="FILMES",CINESKY [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://208.53.180.242/ctv playpath=filmes swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/filmes.html token=EC73xoP2bv
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/7dh5zk3gp/AMC_logo_2013.jpg?noCache=1462384225" group-title="FILMES", AMC HD
+http://163.172.60.49/loadbalance/canal-axn-hd/playlist.m3u8?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/8zhiv1oct/image.png" group-title="FILMES",A&E [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/pvk4xo6fd/Fox.png" group-title="FILMES",FOX [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://31.204.152.6:8081/live/fox/playlist.m3u8?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/wnak0ivex/Fox_Life.png" group-title="FILMES", Fox Life  HD 
+http://163.172.41.217:8081/loadbalance/85565955375174438343/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/pcf1oef0p/image.png" group-title="FILMES",FX [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://163.172.60.49/loadbalance/canal-fx-hd/playlist.m3u8?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/7rlpqry4p/Megapix.png" group-title="FILMES",Megapix [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://31.204.152.6:8081/live/megapix/playlist.m3u8?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/rvnplsjnt/Space.png" group-title="FILMES",Space [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://163.172.60.49/loadbalance/canal-space-hd/playlist.m3u8?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/j755s3te1/Sy_Fy.png" group-title="FILMES",SYFY [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/8vsszg1op/Studio_Universal.png" group-title="FILMES",Studio Universal [COLOR gray] HD[/COLOR] [COLOR red]OFF[/COLOR]
+
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/3qn042zd5/Sony_Spin.png" group-title="FILMES",Sony [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://163.172.60.49/loadbalance/canal-sony-hd/playlist.m3u8?IPTVONLINE
+
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/5u6m38dxp/TNT.png" group-title="FILMES",TNT [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://163.172.60.49/loadbalance/canal-tnt-hd/playlist.m3u8?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/58m8kv895/Universal_Channel.png" group-title="FILMES",Universal Channel [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://163.172.60.49/loadbalance/canal-universal-channel-hd/playlist.m3u8?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/d1zv9jx59/Paramount_Channel.png" group-title="FILMES",PARAMOUNT CHANNEL [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://server2.livestreaming.ninja:1935/live/paramount/playlist.m3u8?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/pnrwnf62x/Warner.png" group-title="FILMES",Warner Bros [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://163.172.60.49/loadbalance/canal-warner-channel-hd/playlist.m3u8?IPTVONLINE
+
+#################################################################################################################################### REDE TELECINE
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/dgezedle1/Telecine_Premium.png" group-title="REDE TELECINE",Telecine Premium [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://79.124.59.218:1935/liveedge/ch24-1/playlist.m3u8?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/bw9nfzczt/Telecine_Action.png" group-title="REDE TELECINE",Telecine Action [COLOR gray] HD[/COLOR] [COLOR red]OFF[/COLOR]
+http://163.172.60.49/loadbalance/canal-telecine-action-hd/playlist.m3u8?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/lxehpaq2x/Telecine_Pipoca.png" group-title="REDE TELECINE",Telecine Pipoca [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://163.172.60.49/loadbalance/canal-telecine-pipoca-hd/playlist.m3u8?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/ddv3rjhqh/Telecine_Fun.png" group-title="REDE TELECINE",Telecine Fun [COLOR gray] HD[/COLOR] [COLOR red]OFF[/COLOR]
+http://163.172.60.49/loadbalance/canal-telecine-fun-hd/playlist.m3u8?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/aayz1ws5l/Telecine_Touch.png" group-title="REDE TELECINE",Telecine Touch [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://163.172.60.49/loadbalance/canal-telecine-touch-hd/playlist.m3u8?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/bxjl9eetl/Telecine_Cult.png" group-title="REDE TELECINE",Telecine Cult[COLOR gray] HD[/COLOR] [COLOR red]OFF[/COLOR]
+
+
+#################################################################################################################################### REDE HBO/Max
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/c954szr7t/Cinemax.png" group-title="REDE HBO/Max",Cinemax[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://163.172.60.49/loadbalance/canal-cinemax-hd/playlist.m3u8?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/5a5d5roul/HBO.png" group-title="REDE HBO/Max",HBO[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://163.172.60.49/loadbalance/canal-hbo-hd/playlist.m3u8?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/t2j9v1g95/HBO2.png" group-title="REDE HBO/Max",HBO 2[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://163.172.60.49/loadbalance/canal-hbo-2-hd/playlist.m3u8?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/9ypyep3ex/HBOFamily.png" group-title="REDE HBO/Max",HBO Family[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://163.172.60.49/loadbalance/canal-hbo-family-hd/playlist.m3u8?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/b3k0k2pvt/HBOPlus.png" group-title="REDE HBO/Max",HBO PLUS[COLOR gray] HD[/COLOR] [COLOR red]OFF[/COLOR]
+http://163.172.60.49/loadbalance/canal-hbo-plus-hd/playlist.m3u8?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/ymvr5of49/Max_HD.png" group-title="REDE HBO/Max",Max HD[COLOR gray] HD[/COLOR] [COLOR red]OFF[/COLOR]
+http://163.172.60.49/loadbalance/canal-max-hd/playlist.m3u8?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="http://s20.postimage.org/6o1letdhl/MAXPrime.png" group-title="REDE HBO/Max",MAX Prime[COLOR gray] HD[/COLOR] [COLOR gray] HD[/COLOR]
+http://163.172.60.49/loadbalance/canal-max-prime-hd/playlist.m3u8?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/6cgxafmh5/HBO_Signature.jpg?noCache=1462385385" group-title="REDE HBO/Max", HBO SIGNATURE [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://163.172.60.49/loadbalance/canal-hbo-signature-hd/playlist.m3u8?IPTVONLINE
+
+
+
+#EXTINF:-1 tvg-logo="" tvg-logo="" group-title="Séries 24 Horas",[COLOR yellow][I][B]» Series 24 Horas «[/B][/I][/COLOR]
+http://google.com
+
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/cpmpryzyl/BIGBANGTHEORY.png" group-title="Séries 24 Horas", A TEORIA DE BIG BANG  [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://208.53.180.242/ctv/ playpath=big swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/5p3bcxnkd/BREAKING_BAD.png" group-title="Séries 24 Horas", BR34K1NG B4D  [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://208.53.180.242/ctv/ playpath=breaking swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/d6cis5d3h/CHAVES.png" group-title="Séries 24 Horas", CHAVES [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://208.53.180.242/ctv/ playpath=chaves swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/f88esnlot/CHAPOLIN.png" group-title="Séries 24 Horas", CHAPOLIN COLORADO [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://208.53.180.178/ctv/ playpath=chapolin swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/chapolin.php
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/ppygoemj1/CASTELO_RA_TIM_BUM.png" group-title="Desenhos 24 Horas", CASTELO RA TIM BUM  [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://208.53.180.242/ctv/ playpath=castelo swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/castelo.php
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/5rn6zrr7x/CRIMINAL_MINDS.png" group-title="Séries 24 Horas", CRIMINAL MINS [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR] 
+rtmp://208.53.180.178/ctv/ playpath=criminal swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/criminalminds.php
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/4145ya9ot/CHUNCK.png" group-title="Séries 24 Horas", CHUCK [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://208.53.180.242/ctv/ playpath=chuck swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/t8f1yjcst/CSI.png" group-title="Séries 24 Horas", CSI [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://208.53.180.242/ctv/ playpath=csi swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/ydz3ii07h/TWO_ANDAHALF_MEN.png" group-title="Séries 24 Horas", DOIS HOMENS E MEIO [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://208.53.180.242/ctv/ playpath=two swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/ibdq9rq19/DRAKE_E_JOSH.png" group-title="Séries 24 Horas", DRAKE E JOSH [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://208.53.180.242/ctv playpath=drake swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/5t1q6xifh/EUAPATROAEASCRIANCAS.png" group-title="Séries 24 Horas", EU A PATROA E AS CRIANCAS [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://208.53.180.242/ctv/ playpath=patroa swfUrl=http://www.canaistv.net/player.swf?iptvglobal pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/u5unyw32j/GLEE.png" group-title="Séries 24 Horas", GLEE [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://208.53.180.242/ctv playpath=glee swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/6l4e64mml/GOSSIO_GIRL.png" group-title="Séries 24 Horas", GOSSIP GIRL [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://208.53.180.242/ctv/ playpath=gossip swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/4vvay26x9/HEROES.png" group-title="Séries 24 Horas", HEROES [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://208.53.180.242/ctv/ playpath=heroes swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/3uv28xpxp/ICARLY.png" group-title="Séries 24 Horas", ICARLY [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://208.53.180.242/ctv/ playpath=icarly swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/uxxby379p/KENAN_E_KEL.png" group-title="Séries 24 Horas", KENAN E KEL [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://208.53.180.242/ctv/ playpath=kenan swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/pp2b07oul/LOST.png" group-title="Séries 24 Horas", LOST [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://208.53.180.242/ctv playpath=lost swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/71u76azrh/PRISONBREAK.png" group-title="Séries 24 Horas", PRISON BREAK [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://208.53.180.242/ctv playpath=prison swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/5s1fodcb1/SMALLVILLE.png" group-title="Séries 24 Horas", SMALLVILLE [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://208.53.180.242/ctv/ playpath=small swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/iai14y9al/SUPERNATURAL.png" group-title="Séries 24 Horas", SUPERNATURAL [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://208.53.180.242/ctv/ playpath=supernatural swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/r6st8vzwt/TODOMUNDOONDEIOCRIS.png" group-title="Séries 24 Horas", TODO MUNDO ODEIA O CHRIS [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR] 
+rtmp://208.53.180.242/ctv/ playpath=cris swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/5e4p2ihl9/UMMALUCONOPEDA_O.png" group-title="Séries 24 Horas", UM MALUCO NO PEDACO [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR] 
+rtmp://208.53.180.242/ctv/ playpath=maluconopedaco swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+
+
+#################################################################################################################################### DOCUMENTARIOS
+
+#EXTINF:-1 tvg-logo="" tvg-logo="" group-title="DOCUMENTARIOS",[COLOR yellow][I][B]» DOCUMENTARIOS «[/B][/I][/COLOR]
+http://google.com
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/c7m083amh/Animal_Planet.png" group-title="DOCUMENTARIOS",Animal Planet[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/jhgria3yh/Comedy_Central.png" group-title="DOCUMENTARIOS",COMEDY CENTRAL [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/rnj2sftzd/PLANETATV.jpg?noCache=1462387056" group-title="DOCUMENTARIOS",PLANETA ONLINE TV[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://wse.planeta-online.tv:1935/live/channel_3/playlist.m3u8?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/mde4159qh/NASA_TV_live_stream.jpg?noCache=1462387158" group-title="DOCUMENTARIOS",NASA TV[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://iphone-streaming.ustream.tv/ustreamVideo/6540154/streams/live/playlist.m3u8?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/j8elem1sd/Bis.png" group-title="DOCUMENTARIOS",BIS[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://l.mybeststream.xyz/r playpath=comedy854 swfUrl=http://mybeststream.xyz/YmI3ZDM2ZTI2ZDE4MzkxMWIzODhlMGQ2MzBkNDlmZDBiNDEyOW/jwplayer.flash.swf pageUrl=http://mybeststream.xyz/ token=c.r.e.a.t.e.S.t.r.e.a.m
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/4a5dbo1hl/Discovery.png" group-title="DOCUMENTARIOS",Discovery Channel[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://163.172.60.49/loadbalance/canal-discovery-channel-hd/playlist.m3u8?IPTVONLINE
+
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/6nnb2ofwp/Discovery_Turbo.png" group-title="DOCUMENTARIOS",Discovery Turbo[COLOR gray] HD[/COLOR] [COLOR red]OFF[/COLOR]
+Discovery Turbo,http://163.172.60.49/loadbalance/canal-discovery-turbo-hd/playlist.m3u8?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/qd5lf4nt5/Discovery_Civilization.png" group-title="DOCUMENTARIOS",Discovery Civilization[COLOR gray] HD[/COLOR] [COLOR red]OFF[/COLOR]
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/4tagkxsw9/Discovery_Science.png" group-title="DOCUMENTARIOS",Discovery Science[COLOR gray] HD[/COLOR] [COLOR red]OFF[/COLOR]
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/kb2k2dor1/Discovery_World.png" group-title="DOCUMENTARIOS",Discovery World[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/hypyr1mrt/Discovery_Theater.png" group-title="DOCUMENTARIOS",Discovery Theater[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/y4mbdoryh/Discovery_Home_Health.png" group-title="DOCUMENTARIOS",Home & Health[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/kcm6u6yrt/Investigacao_Discovery.png" group-title="DOCUMENTARIOS",ID - Investigação[COLOR gray] HD[/COLOR] [COLOR red]OFF[/COLOR]
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/plh7s2h6x/History_Channel.png" group-title="DOCUMENTARIOS",History[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/xr0ncck95/History_2.jpg?noCache=1462387900" group-title="DOCUMENTARIOS",History 2[COLOR gray] HD[/COLOR] [COLOR red]OFF[/COLOR]
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/qg8cruefd/Nat_Geo.png" group-title="DOCUMENTARIOS",NatGeograpic[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://stmv1.srvstm.com:1935/tvcadm/tvcadm/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/u148b2iyx/Nat_Geo_Wild.png" group-title="DOCUMENTARIOS",NatGeo Wild[COLOR gray] HD[/COLOR] [COLOR red]OFF[/COLOR]
+http://163.172.60.49/loadbalance/canal-nat-geo-hd/playlist.m3u8?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/53dvxgbk9/TLC.png" group-title="DOCUMENTARIOS",TLC[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+
+
+################################################################################# MUSICA
+
+#EXTINF:-1 tvg-logo="" tvg-logo="" group-title="MUSICA",[COLOR pink][I][B]» MUSICA «[/B][/I][/COLOR]
+http://google.com
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/9v6pc1rih/ALEX.jpg?noCache=1462392929" group-title="MUSICA", ALEX BERLIN-Urban Music  [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/hasbahca.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/866svgqkp/atomic.jpg?noCache=1462393682" group-title="MUSICA", ATOMIC [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://5.154.185.153/live/live.flv
+
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/7y0sfzm2x/yeah.jpg?noCache=1462388296" group-title="MUSICA",YEEAH[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/uyanjxuh5/MTV.png" group-title="MUSICA",MTV[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://163.172.60.49/loadbalance/canal-mtv-hd/chunks.m3u8?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/aykuo57yl/MTV_Live_HD.png" group-title="MUSICA",MTV LIVE[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://mtvam.ru/hlsam/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/4i8o6fouh/DHING.jpg?noCache=1462388612" group-title="MUSICA",DJ HITS[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://www.djing.com/tv/04.m3u8?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/hno6cjiq1/tvsertaneja.jpg?noCache=1462389035" group-title="MUSICA",TV SERTANEJA SP[COLOR gray] Player 1[/COLOR] [COLOR yellow]ON[/COLOR]
+http://caikrondatacenter.com.br:1935/tvsertaneja/tvsertaneja.stream/live.m3u8IPTVONLINE
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/sx6btvu6h/Vh1.png" group-title="MUSICA",VH1[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL703/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/qy4vttitl/vevo.png?noCache=1462389365" group-title="MUSICA",Vevo[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/qy4vttitl/vevo.png?noCache=1462389365" group-title="MUSICA",Vevo 2[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/qy4vttitl/vevo.png?noCache=1462389365" group-title="MUSICA",Vevo 3[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/55679u6x9/hotmusic.jpg" group-title="MUSICA",Hot Music[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://wow01.105.net/live/rmc1/playlist.m3u?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/68gmnejd9/eska_party.jpg" group-title="MUSICA",Eska Tv[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://stream.smcloud.net/live/eskatv
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/y0x3b6bux/Eska_Best_Music_HD.jpg" group-title="MUSICA",Eska Best Music[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://stream.smcloud.net/live2/best/best_720p
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/52h82ckgd/Eska_Polo_TV.png" group-title="MUSICA",Eska Polo TV Music[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://stream.smcloud.net/live/polotv
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/wainnfjpp/eskarocktv.jpg" group-title="MUSICA",Eska Rock[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/xzn5hra19/eska_wawa.jpg" group-title="MUSICA",Eska Wawa [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://stream.smcloud.net/live2/wawa/wawa_360p 
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/z71lgvtl9/virgin_tv.png" group-title="MUSICA",Virgin TV[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://wow01.105.net/live/virgin1/chunklist_w1531272998.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/92tgz8tql/kisstv.jpg" group-title="MUSICA",Kiss TV[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/lcq9v4i2x/Radio_UTV.png" group-title="MUSICA",Radiou.TV[COLOR gray ] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://cdn.rbm.tv/rightbrainmedia-live-109/_definst_//mp4:radioutv1 
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/cwrim50gd/monte_carlo.png" group-title="MUSICA",Radio MonteCarloTV[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://fms.105.net:1935/live playpath=rmc1 swfUrl=live=1 
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/y93lxk9s9/piktv.png" group-title="MUSICA",Pik TV[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://fms.pik-tv.com/live/piktv2pik2tv 
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/n31hr8znt/Street_Germany.png?noCache=1462390342" group-title="MUSICA", Street Clip TV [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://stream.streetclip.tv:1935/live/low-stream
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/n4bfko1hl/VOX.png?noCache=1462390458" group-title="MUSICA", Vox Music TV  [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://stream.smcloud.net/live2/vox/vox_720p
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/fpm3safm1/MTV_Dance_svg.jpg?noCache=1462390643" group-title="MUSICA", MTV DANCE [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://s2.edem.tv/iptv/DG3SKB7NEKMAYG/558/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/rg019o8el/M6_Music_2012.png" group-title="MUSICA", M6 MUSIC  [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/kqthtnn2h/retromusic.jpg?noCache=1462390928" group-title="MUSICA", RETRO MUSIC [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/hl8w3g4g9/Heart_TV1.jpg?noCache=1462391021" group-title="MUSICA", Heart TV [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_398_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/5xeu8wfbd/radio105.png?noCache=1462391123" group-title="MUSICA", RADIO 105 TV  [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://fms.105.net:1935/live/105Test1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/m9ovymtmx/MIAMITV.png?noCache=1462391466" group-title="MUSICA", MIAMI TV MUSIC [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://74.208.152.93/music/stream3/stream.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/e5grtw77t/SUPERSONIC.jpg?noCache=1462391640" group-title="MUSICA", SUPERSONIC TV  MIAMI TV MUSIC [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://str103.setplex.net:1935/228//stv_online/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/kxbsahll5/electrosoundtv.png?noCache=1462391804" group-title="MUSICA", Electrosound  [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://www.electrosound.tv:1935/public/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/vy6xfidu1/DJing_Underground.jpg?noCache=1462391936" group-title="MUSICA", Djing Underground HD  [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://cdn.djing.com/tv/u-05.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/a0aglpytl/UTV.jpg?noCache=1462392105" group-title="MUSICA", UTV  [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://cdn.rbm.tv/rightbrainmedia-live-109/_definst_//mp4:radioutv1/chunklist_w1182659521.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/8za7wlhu1/AFROMUSICCHANNEL.jpg?noCache=1462392212" group-title="MUSICA", AFRO MUSIC  [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://176.9.55.94:1935/edge/43_135_live/Manifest.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/mu8if2c95/subgroups82_1.png?noCache=1462392314" group-title="MUSICA", HIT TV  [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live/chuklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/eq0eabpu1/hardlife.png?noCache=1462392404" group-title="MUSICA", HARD LIFE  [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://stream.hardlife.tv:8134/hls-live/livepkgr/_definst_/liveevent/hl.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/5ks1ggmfd/rouge_tv.jpg?noCache=1462392705" group-title="MUSICA", TV Disco  [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://edge2.popler.tv:1935/publishlive?play=123452 playpath=tvdisco swfUrl=http://images.popler.tv/player/flowplayer.commercial.swf live=1 pageUrl=http://www.popler.tv/live/tvdisco
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/lyc0zm2kp/FRESHTV.png?noCache=1462393018" group-title="MUSICA", FRESH TV MUSIC  [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://wse.planeta-online.tv:1935/live/channel_4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/vka6tnj49/AMAZING_LOGO_BRANCO3.jpg?noCache=1462393103" group-title="MUSICA", AMAZING [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/6sakmf1xl/sitv_600x470.jpg?noCache=1462393166" group-title="MUSICA", SI TV  [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/88m34k4uh/talentsdelatele.jpg?noCache=1462393242" group-title="MUSICA", MFM TV HQ  [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://ec.playmedia.fr/mfmtv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/fuz1tg1op/FORMUSIC.jpg?noCache=1462393345" group-title="MUSICA", FOR MUSIC TV  [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://194.116.73.146/quartaretetv1 playpath=formusicweb swfUrl=http://www.quartarete.tv/player-licensed.swf live=1 pageUrl=http://www.formusic.tv/
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/w793j6g09/radioitalia_web.jpg?noCache=1462393411" group-title="MUSICA", Radio Italia TV  [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://cworigin.cdcache.net:1935/cworigin/_definst_/rilive 
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/6pqozkya1/1hd.jpg?noCache=1462393597" group-title="MUSICA", 1 HD MUSIC  [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://80.250.191.10:1935/live/livestream1/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/pkr13qnpl/dream_tv.jpg?noCache=1462393737" group-title="MUSICA", DREAM TV [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/646bh7slp/HEAVYMETAL.png" group-title="MUSICA", HEAVY METAL TELEVISION  [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://70.166.98.130:1935/hmtv/myStream
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/f0h3l5j7x/logo_mimusica.png" group-title="MUSICA", MIMUSICA HD  [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/5h7erovpo/tico.jpg" group-title="MUSICA", TICO MUSIC  [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/w3jvgnzwt/VISUALRADIO.png" group-title="MUSICA", VISUAL RADIO TV  [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://wms.shared.streamshow.it/visualradio/visualradio_mobile/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/b7xl5f3pp/VH1_CLASSIC_svg.png" group-title="MUSICA", VH1 Classic  [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL728/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/4ir1peidp/cantinazo.jpg" group-title="MUSICA",  Canatinazo TV  [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://live.tvplayerlatino.com/lista_remota/src3/G8ML9.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/ki9p8yefh/ritmoson_latino_logo_pequeno.jpg" group-title="MUSICA", Ritmoson Latino  [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL731/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/u439p95l9/plus.jpg" group-title="MUSICA", PLUS  [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://over.ddns.net:65120/
+
+################################################################################## CANAIS DE VARIEDADES
+
+
+#EXTINF:-1 tvg-logo="" tvg-logo="" group-title="",[COLOR purple][I][B]» VARIEDADES «[/B][/I][/COLOR]
+http://google.com
+
+#EXTINF:-1,CANAL BRASIL
+http://163.172.41.217:8081/loadbalance/85136767248433698633/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.g2ptv.tv.br/logo.png" group-title="VARIEDADES",G2P TV[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://srv3.zoeweb.tv/z474-live//aovivo
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/xhj3dlkp9/Band_News_TV_logo_2010_svg.png" group-title="NOTICIAS",BAND NEWS
+http://evp.mm.uol.com.br:1935/band/bandnews/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/JspPPxW.jpg" group-title="VARIEDADES", TV Ultrafarma 
+http://wse.transmissaodigital.com:1935/cinealta4145/cinealta4145/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/45p35m6j1/Play_Tv.png" group-title="VARIEDADES",PLAY TV[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/i4z2ge6ix/Chef_TV.png" group-title="VARIEDADES",ChefeTV[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://flashd.localmidia.com.br/cheftv playpath=aovivo swfUrl=http://www.assistirtvgratisonline.org/canais/player/universal.swf pageUrl=http://www.assistirtvgratisonline.org/canais/chef-tv.php
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/yfpzl8495/AXN.png" group-title="VARIEDADES",AXN[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/nf1bmz9n1/abc_news.png" group-title="NOTICIAS",ABC NEWS[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://abclive.abcnews.com:80/i/abc_live4@136330/index_1200_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/rvwe6d4zt/CNN.png" group-title="NOTICIAS",CNN[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+
+
+################################################################################## CANAIS RELIGIOSOS
+
+#EXTINF:-1 tvg-logo="" tvg-logo="" group-title="",[COLOR Purple][I][B]» RELIGIOSOS «[/B][/I][/COLOR]
+http://google.com
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="" group-title="RELIGIOSOS",TV BETHEL[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://srv3.zoeweb.tv:1935/z116-live/stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="" group-title="RELIGIOSOS",TV JESUS CRISTO[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://srv6.zoeweb.tv:1935/z476-live/stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="" group-title="RELIGIOSOS",TV LOUVAR SP[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://173.236.10.10:1935/renascer/renascer/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="" group-title="RELIGIOSOS",Igreja Online TV[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtsp://195.22.19.179:1935/igronl/igronline2
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="" group-title="RELIGIOSOS",IPB TV[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://ec2-184-73-91-175.compute-1.amazonaws.com:1935/live/ipbtv400.sdp/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="" group-title="RELIGIOSOS",IURD TV[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://cp116309.live.edgefcs.net/live/RodrigoLive@46406
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="" group-title="RELIGIOSOS",IMPD TV[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://impd.crossdigital.com.br:1935/impd/impd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="" group-title="RELIGIOSOS",TV Assembleia[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://wse.transmissaodigital.com/ronaldo537//ronaldo537
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="" group-title="RELIGIOSOS",Rede Familia[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtsp://srv3.ntelecom.com.br/redefamilia
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="" group-title="RELIGIOSOS",TV O Povo[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://srv3.zoeweb.tv/z01-live//stream
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="" group-title="RELIGIOSOS",TV Plenitude[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://painelvideo.com:1935/iaptd/iaptd 
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="" group-title="RELIGIOSOS",Adinet Gospel TV[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://painel.tvdigitalhd.org:1935/adinet/adinet/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="" group-title="RELIGIOSOS",TV Votorantim[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://198.20.107.218:1935/votorantim/votorantim/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="" group-title="RELIGIOSOS",Sky Gospel Web TV[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://fms.skyradios.com.br:1935/skylive/skylive/Anderson_Elias.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="" group-title="RELIGIOSOS",TV Verdade[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://ocatv.mcgi.me:1935/public/247_br/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="" group-title="RELIGIOSOS",Fonte TV[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://flash.softhost.com.br:1935/fonte/fontetv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="" group-title="RELIGIOSOS",Vem e Ver Tv[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://srv-vvtv.sisdera.com.br/live//vvtv3?Grupo_UP_e_DOWN
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="" group-title="RELIGIOSOS",Vem e Ver Tv 2[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://srv-vvtv.sisdera.com.br/live//vvtv023?Grupo_UP_e_DOWN
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="" group-title="RELIGIOSOS",Vem e Ver Tv 3[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://srv-vvtv.sisdera.com.br/live//vvtv033?Grupo_UP_e_DOWN
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="" group-title="RELIGIOSOS",TV CRISTÃ SP[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://198.20.107.218:1935/tvcweb/tvcweb/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="" group-title="RELIGIOSOS",TV A CAMINHO DA LUZ SP[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://streaming50.sitehosting.com.br:1935/angra/angra/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="" group-title="RELIGIOSOS",TERCEIRO ANJO TV[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://streamer1.streamhost.org:1935/salive/GMI3anjoh/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="" group-title="RELIGIOSOS",REDE GÊNESIS[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://snt.sisdera.com:1935/tvgenesis/aovivo.stream/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="" group-title="RELIGIOSOS",CWB TV PR[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://38.96.175.108:1935/cwbtv/cwbtv/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="" group-title="RELIGIOSOS",CJC RJ[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://flash1.crossdigital.com.br:1935/ponto85/ongrace/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="" group-title="RELIGIOSOS",PORTAL GOSPEL TV [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://s1.wsepanel.com:1935/lukfilm/lukfilm/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="" group-title="RELIGIOSOS",PROVISÃO TV[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://srv3.zoeweb.tv:1935/z98-live/stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="" group-title="RELIGIOSOS",TV ALVORADA ESPÍRITA[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://rtmp.cdn.upx.net.br:1935/732a/myStream.sdp/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="" group-title="RELIGIOSOS",TV IMACULADA CONCEIÇÃO MS[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://69.46.0.170:1935/ric_tvimaculada/ric.stream/live.m3u8
+
+#EXTINF:-1,Tv Cinec PB
+http://104.156.60.74:1935/tvcinec/tvcinec/live.m3u8
+
+
+
+################################################################################## CANAIS REGIONAIS
+
+#EXTINF:-1 tvg-logo="" tvg-logo="" group-title="",[COLOR purple][I][B]» REGIONAIS «[/B][/I][/COLOR]
+http://google.com
+
+
+#EXTINF:-1  tvg-logo="http://s3.cdn.a8se.com/v1/images/tv_logo.png" group-title="REGIONAIS",TV ATALAIA [COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://hls.stream.a8se.com/live/tvatalaia_abr/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://s20.postimg.org/43mhiswlp/YCJITDF.png" group-title="REGIONAIS",TVE RS [COLOR gray] SD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://s5.procergs.com.br/tve/stve
+
+#EXTINF:-1  tvg-logo="https://s20.postimg.org/kfwj8jax9/tvtamabe.png" group-title="REGIONAIS",TV TAMBAÚ [COLOR gray] SD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://tv.paraibahost.com.br:1935/tvtambau/tvtambau/live.m3u8
+
+#EXTINF:-1  tvg-logo="http://tvriolargo.com.br/gallery_gen/08e83571a24c2cecdc1b6e06a250d762_370x240.png" group-title="REGIONAIS",TV RIO LARGO [COLOR gray] SD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://painel.tvdigitalhd.org:1935/tvriolargo/tvriolargo/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnU_f0k1OTKC3pl0cLLjHrDsRcotoFbGUxCITXc84RDyC3bpDF" group-title="REGIONAIS",1001 NOITES[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://streaming30.sitehosting.com.br:1935/abdalla/abdalla/live.m3u8
+
+#EXTINF:-1  tvg-logo="http://www.sb4.com.br/media/site/image/data/logotipo/logotipo.png" group-title="REGIONAIS",TV SB4[COLOR gray] SD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://media.az-mediaserver.com:1935/7120/7120/live.m3u8
+
+#EXTINF:-1  tvg-logo="http://www.sb4.com.br/media/site/image/data/logotipo/logotipo.png" group-title="REGIONAIS",RÁDIO SB4[COLOR gray] SD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://72.55.164.118:8749/stream?type=.mp3
+
+#EXTINF:-1 tvg-logo="http://www.tvpreve.com.br/imagens/logo.png" group-title="REGIONAIS",TV PREVÊ SP[COLOR gray] SD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://flashserverbr.com:1935/tvpreve/livestream/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://santaportal.com.br/Arquitetura/Imagens/Banners/banner_tv.jpg" group-title="REGIONAIS",TV SANTA CECÍLIA [COLOR gray] SANTOS-SP [/COLOR] [COLOR yellow]ON[/COLOR]
+http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://pontanegranews.com.br/pics/pontanegranews.png" group-title="REGIONAIS",Ponta Negra News[COLOR gray] SBT RN[/COLOR] [COLOR yellow]ON[/COLOR]
+http://184.172.23.109:1935/live/tvmix02/tvmix02/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.paixaoporribeirao.com.br/static/img/logo.png" group-title="REGIONAIS",TV MAIS RIBEIRÃO[COLOR gray] SD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://189.113.13.138:1935/live/1065581/tvmaisribeirao/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/v1aEkB" group-title="REGIONAIS",TV MACKENZIE SP[COLOR gray] SD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://ec2-50-19-196-117.compute-1.amazonaws.com:1935/live/tvmackenzie_bitrate1.sdp/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvinterlagos.com.br/ministerial/logos/intertvbr1.jpg" group-title="REGIONAIS",TV INTERLAGOS SP[COLOR gray] SD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://198.20.107.218:1935/tvinterlagos/tvinterlagos/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvgeral.com.br/imagens/logo.png" group-title="REGIONAIS",TV GERAL BA[COLOR gray] SD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://fms1.tacitus.com.br:1935/tvgeral/tvgeral/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/ff/Logotipo_TV_Guar%C3%A1.png" group-title="REGIONAIS",TV GUARÁ MA[COLOR gray] Record News[/COLOR] [COLOR yellow]ON[/COLOR]
+http://v1.fabricahost.com.br:1935/tvguara/tvguara/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.acesp.tv.br/img/uploads/emissoras/4e57bf67dc986.jpg" group-title="REGIONAIS",TV GUARUJÁ SP[COLOR gray] SD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://wse.transmissaodigital.com:1935/3880/3880/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.acesp.tv.br/img/uploads/emissoras/4e56829ce1802.jpg" group-title="REGIONAIS",TV GUARULHOS SP[COLOR gray] SD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://flash1.crossdigital.com.br:1935/476_1/476_1/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://tvalternativa.tv.br/logo_tva0.png?v=21g3j4ia2twzwz" group-title="REGIONAIS",TV ALTERNATIVA MA[COLOR gray] Tv Gazeta[/COLOR] [COLOR yellow]ON[/COLOR]
+http://streaming50.sitehosting.com.br:1935/alternativa/alternativa/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.multitvcidades.com.br/imagens/marca_multitv.jpg" group-title="REGIONAIS",MULTI TV[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://a3.fabricahost.com.br:1935/multitv/stream/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://tvcidadeoeste.com.br/wp-content/uploads/2016/04/logositetv-1.png" group-title="REGIONAIS",Tv Cidade Oeste[COLOR gray] SD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://96.47.239.167:1935/lembranca/lembrancatv/live.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="" group-title="REGIONAIS",DEMAIS TV SP[COLOR gray] SD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://wz3.dnip.com.br:1935/dmtv/dmtv.sdp/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="" group-title="REGIONAIS",HORSE BRASIL CHANNEL[COLOR gray] JAÚ-SP[/COLOR] [COLOR yellow]ON[/COLOR]
+http://570230807.e.849169298.r.idglobalcdn.net:80/849169298/horsebrasil/live.m3u8
+
+#EXTINF:-1  tvg-logo="http://www.acesp.tv.br/img/uploads//emissoras/4e57d4828f70c.jpg" group-title="REGIONAIS",TVC[COLOR gray] JAÚ-SP[/COLOR] [COLOR yellow]ON[/COLOR]
+http://streaming49.sitehosting.com.br:1935/tvcjau/tvcjau/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="" group-title="REGIONAIS",TV CIDADE 7[COLOR gray] NGT[/COLOR] [COLOR yellow]ON[/COLOR]
+http://srv3.zoeweb.tv:1935/z453-live/stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="" group-title="REGIONAIS",TV DC46 SP[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://142.4.219.208:1935/robsonmarcelho474/robsonmarcelho474/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="" group-title="REGIONAIS",TV DESTAQUE SP[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://pg0722fms35.nethorizontes.tv:1935/pg0722fms35/wtguatv/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.acesp.tv.br/img/uploads/emissoras/4e57deae55dab.jpg" group-title="REGIONAIS",TV COM[COLOR gray] Santos-Sp[/COLOR] [COLOR yellow]ON[/COLOR]
+http://streaming46.sitehosting.com.br:1935/tvcomsantos/tvcomsantos/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="" group-title="REGIONAIS",TV Brusque[COLOR gray] Rede Brasil[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://179.107.83.10/live//tvbrusque
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="" group-title="REGIONAIS",TV JAGUAR CE[COLOR gray] SD[/COLOR] [COLOR yellow]ON[/COLOR]EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="" group-title="REGIONAIS", TV Jaguar Ce [COLOR gray] SD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://78.46.36.212:1935/tvjaguar1/tvjaguar1/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="" group-title="REGIONAIS",TV Geral[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://fms2.tacitus.com.br/tvgeral/ playpath=tvgeral  swfUrl=http://jornalfolhadoestado.com/tvgeral/player/jw/jwplayer.flash.swf pageUrl=http://jornalfolhadoestado.com/tvgeral/player/index.php
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="" group-title="REGIONAIS",TV Itarare[COLOR gray] Tv Cultura[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://177.73.84.38/livepkgr/ playpath=tv swfUrl=http://vjs.zencdn.net/4.5/video-js.swf pageUrl=http://www.televisaonaparaiba.com/p/tv-itarare.html
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="" group-title="REGIONAIS",TV CIDADE[COLOR gray] MARILIA-SP[/COLOR] [COLOR yellow]ON[/COLOR]
+http://wz2.sunline.com.br:1935/sunline/sunline.sdp/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="" group-title="REGIONAIS",TV Cidade[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://179.107.83.10:1935/live/tvcidadeaovivo_2
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="" group-title="REGIONAIS",TV Comunitaria[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://mediaserver1.estadovirtual.net:1935/c1954ev1276/ playpath=aovivo swfUrl=http://player.estadovirtual.com.br/player/player.swf?IPTVGLOBAL pageUrl=http://www.tvcomunitariadf.com.usrfiles.com/html/7964be_6aff55f1a302f50e90aaee3349a68f86.html
+
+#EXTINF:-1 tvg-logo="http://redeminas.tv/wp-content/uploads/2014/09/RedeMinas_marca.jpg" group-title="REGIONAIS",Rede Minas[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+rtmp://rtmp.cdn.upx.net.br/00084/myStream.sdp
+
+#EXTINF:-1 tvg-logo="http://tvrbc.com/gallery/banner05.png" group-title="REGIONAIS",TV RBC[COLOR gray] HD[/COLOR] [COLOR red]OFF[/COLOR]
+rtmp://flash1.crossdigital.com.br/ponto10/latina 
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="" group-title="REGIONAIS",Coracao  de Pescador [COLOR gray] PR[/COLOR] [COLOR red]OFF[/COLOR]
+http://streaming42.sitehosting.com.br:1935/siz3s/_definst_/siz3s/live.m3u8
+
+#EXTINF:-1  tvg-logo="http://i.imgur.com/hHaH74V.png" group-title="REGIONAIS",TV Amazon Sat [COLOR gray] HD[/COLOR] [COLOR red]OFF[/COLOR]
+http://liveabr2.sambatech.com.br/abr/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream.m3u8?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="http://www.tvbatatinha.com.br/attachments/Image/00.jpg" group-title="REGIONAIS",Tv Batatinha[COLOR gray] SD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://srv6.zoeweb.tv:1935/z632-live/stream/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/714393/tvsomzoom/logo.png" group-title="REGIONAIS",TV SOM ZOOM CE[COLOR gray] SD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://srv3.zoeweb.tv:1935/z443-live/stream1/livestream.m3u8
+
+
+#EXTINF:-1, tvg-logo="http://tvdiario.verdesmares.com.br/img/tvdiario/tv-diario.png" tvg-logo="" group-title="REGIONAIS",TV DIARIO[COLOR gray] SD [/COLOR] [COLOR yellow]ON[/COLOR]
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/playlist.m3u8
+
+#EXTINF:-1,Tv Guaruja
+http://wse.transmissaodigital.com:1935/3880/3880/live.m3u8
+
+
+#EXTINF:-1, tvg-logo="http://www.viamorena.com/images/logo.png" tvg-logo="" group-title="REGIONAIS",TV VIAMORENA [COLOR gray] SD [/COLOR] [COLOR yellow]ON[/COLOR]
+http://wowza3.netpoint.com.br:1935/viamorena/live/livestream.m3u8
+
+#EXTINF:-1,FEB TV
+http://plenus6000.com:1935/febtv1/febtv1/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://ishop.s8.com.br/mktshop/shoptime-logo.png" group-title="REGIONAIS",SHOPTIME SP[COLOR gray] SD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish3/kLive/smil:1_lld8saie_all.smil/35/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="http://gledalnik.com/wp-content/uploads/2013/07/planeta-tv-logo.jpg" group-title="REGIONAIS",Planeta Online Tv[COLOR gray] BR[/COLOR] [COLOR yellow]ON[/COLOR]
+http://wse.planeta-online.tv:1935/live/channel_3/livestream.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://tv.sba1.com/imagens/logosba.png" group-title="SBA",[COLOR orange][I][B]» Sistema Brasileiro Do Agronegócio «[/B][/I][/COLOR]
+http://google.com
+
+#EXTINF:-1 tvg-logo="http://www.sba1.com/wp-content/uploads/2013/04/7-canais-canaldoboi.jpg" group-title="SBA",CANAL DO BOI[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://srvvenus.canaldoboi.com.br:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.sba1.com/wp-content/uploads/2013/04/8-canais-agrocanal.jpg" group-title="SBA",AGRO CANAL[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://srvvenus.canaldoboi.com.br/hls-live/liveac/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.sba1.com/wp-content/uploads/2013/04/10-canais-conexaobr.jpg" group-title="SBA",CONEXÃO BR[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://srvvenus.canaldoboi.com.br:80/hls-live/livecx/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.sba1.com/wp-content/uploads/2013/04/9-canais-novocanal.jpg" group-title="SBA",NOVO CANAL[COLOR gray] HD[/COLOR] [COLOR yellow]ON[/COLOR]
+http://srvvenus.canaldoboi.com.br/hls-live/livenc/_definst_/liveevent/livestream.m3u8
